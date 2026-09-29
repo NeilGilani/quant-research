@@ -38,7 +38,7 @@ ways it happens. (Note 001 measures how badly two of them distort results.)
 
 ## Data
 
-- Simulated data (via [quantsim](https://github.com/hilothefunnydog123-coder/quantsim))
+- Simulated data (via [quantsim](https://github.com/NeilGilani/quantsim))
   is the right tool for studying *methodology* — it gives a known ground-truth
   edge. Real market data (via the data pipeline) is required for *market claims*.
   Every note states which it used and why.

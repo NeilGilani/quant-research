@@ -147,6 +147,6 @@ price *did*; the data gives no reason to believe they predict what it will do.
 
 ## How to cite
 
-> Gilani, N. (2026). *Do Liquidity Grabs and Fair Value Gaps Have a Statistical Edge?* Martingale, Research Note 004. https://github.com/hilothefunnydog123-coder/quant-research
+> Gilani, N. (2026). *Do Liquidity Grabs and Fair Value Gaps Have a Statistical Edge?* Martingale, Research Note 004. https://github.com/NeilGilani/quant-research
 
 © 2026 Neil Gilani. Code: MIT License. Text, figures, and findings: CC BY 4.0 (reuse with attribution).

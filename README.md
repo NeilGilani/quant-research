@@ -62,14 +62,14 @@ This is an **open research collective** — anyone can submit a quant research n
 ## Reproduce any note
 
 ```bash
-pip install "git+https://github.com/hilothefunnydog123-coder/quantsim.git" matplotlib
+pip install "git+https://github.com/NeilGilani/quantsim.git" matplotlib
 cd 001-how-backtests-lie && python experiment.py     # regenerates results + figures
 python paper/build_pdf.py                            # rebuilds the PDF
 ```
 
 ## About
 
-Independent quant research by **Neil Gilani** ([@hilothefunnydog123-coder](https://github.com/hilothefunnydog123-coder)), exploring market microstructure, strategy evaluation, and the statistics of trading — with an emphasis on methodology over hype. Built on [quantsim](https://github.com/hilothefunnydog123-coder/quantsim) and [exchange-simulator](https://github.com/hilothefunnydog123-coder/exchange-simulator).
+Independent quant research by **Neil Gilani** ([@NeilGilani](https://github.com/NeilGilani)), exploring market microstructure, strategy evaluation, and the statistics of trading — with an emphasis on methodology over hype. Built on [quantsim](https://github.com/NeilGilani/quantsim) and [exchange-simulator](https://github.com/NeilGilani/exchange-simulator).
 
 ## License & citation
 
@@ -80,6 +80,6 @@ Independent quant research by **Neil Gilani** ([@hilothefunnydog123-coder](https
 
 If you reference this work, please cite it (GitHub's **"Cite this repository"** button uses [`CITATION.cff`](CITATION.cff)):
 
-> Gilani, N. (2026). *Martingale — Quantitative Finance Research.* https://github.com/hilothefunnydog123-coder/quant-research
+> Gilani, N. (2026). *Martingale — Quantitative Finance Research.* https://github.com/NeilGilani/quant-research
 
 *The commit history in this repository is a timestamped, public record of authorship.*

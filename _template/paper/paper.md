@@ -33,6 +33,6 @@ lookahead and how you controlled for luck / multiple testing.]
 ---
 
 ## How to cite
-> [Last], [First]. (2026). *[Title].* Martingale, Research Note XXX. https://github.com/hilothefunnydog123-coder/quant-research
+> [Last], [First]. (2026). *[Title].* Martingale, Research Note XXX. https://github.com/NeilGilani/quant-research
 
 © 2026 [Your Name]. Code: MIT. Text & figures: CC BY 4.0 (reuse with attribution).

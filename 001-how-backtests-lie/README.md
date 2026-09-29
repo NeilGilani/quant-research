@@ -27,7 +27,7 @@ visual.
 ## Reproduce
 
 ```bash
-pip install "git+https://github.com/hilothefunnydog123-coder/quantsim.git" matplotlib
+pip install "git+https://github.com/NeilGilani/quantsim.git" matplotlib
 python experiment.py          # -> results.json + paper/figures/*.png
 python paper/build_pdf.py     # -> paper/paper.pdf  (needs: pip install markdown playwright)
 ```

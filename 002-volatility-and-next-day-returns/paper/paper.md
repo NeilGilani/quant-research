@@ -108,6 +108,6 @@ market goes tomorrow; it is a measure of turbulence, not of direction.
 
 ## How to cite
 
-> Gilani, N. (2026). *Does Volatility Predict Next-Day Returns?* Martingale, Research Note 002. https://github.com/hilothefunnydog123-coder/quant-research
+> Gilani, N. (2026). *Does Volatility Predict Next-Day Returns?* Martingale, Research Note 002. https://github.com/NeilGilani/quant-research
 
 © 2026 Neil Gilani. Code: MIT License. Text, figures, and findings: CC BY 4.0 (reuse with attribution).

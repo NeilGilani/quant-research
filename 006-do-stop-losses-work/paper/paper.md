@@ -288,6 +288,6 @@ of taking less risk. It is not, on this evidence, a way of taking risk better.
 
 ## How to cite
 
-> Gilani, N. (2026). *Do Stop-Losses Actually Improve Risk-Adjusted Returns?* Martingale, Research Note 006. https://github.com/hilothefunnydog123-coder/quant-research
+> Gilani, N. (2026). *Do Stop-Losses Actually Improve Risk-Adjusted Returns?* Martingale, Research Note 006. https://github.com/NeilGilani/quant-research
 
 © 2026 Neil Gilani. Code: MIT License. Text, figures, and findings: CC BY 4.0 (reuse with attribution).

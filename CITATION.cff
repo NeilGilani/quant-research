@@ -5,9 +5,9 @@ type: software
 authors:
   - family-names: Gilani
     given-names: Neil
-    alias: hilothefunnydog123-coder
-repository-code: "https://github.com/hilothefunnydog123-coder/quant-research"
-url: "https://github.com/hilothefunnydog123-coder/quant-research"
+    alias: NeilGilani
+repository-code: "https://github.com/NeilGilani/quant-research"
+url: "https://github.com/NeilGilani/quant-research"
 abstract: >-
   Independent quantitative-finance research: reproducible experiments on
   market microstructure, strategy evaluation, and the statistics of trading,

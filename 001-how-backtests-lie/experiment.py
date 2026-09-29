@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # © 2026 Neil Gilani (Martingale) — MIT License.
-# Part of quant-research: https://github.com/hilothefunnydog123-coder/quant-research
+# Part of quant-research: https://github.com/NeilGilani/quant-research
 """How Backtests Lie — reproducible experiments.
 
 Two controlled experiments quantifying the two most common ways a trading
@@ -11,7 +11,7 @@ produced by this script; run it to reproduce.
 
     python experiment.py            # writes results.json + paper/figures/*.png
 
-Requires: quantsim (github.com/hilothefunnydog123-coder/quantsim), matplotlib.
+Requires: quantsim (github.com/NeilGilani/quantsim), matplotlib.
 """
 from __future__ import annotations
 

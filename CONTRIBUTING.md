@@ -48,7 +48,7 @@ stays attached.
 
 ## Discussion
 
-Have a question or a research idea but not a full note yet? Open a **[Discussion](https://github.com/hilothefunnydog123-coder/quant-research/discussions)**
+Have a question or a research idea but not a full note yet? Open a **[Discussion](https://github.com/NeilGilani/quant-research/discussions)**
 or an **Issue**. Proposing good questions is a real contribution too.
 
 ## Be kind
