@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-10-14",
+  "as_of": "2026-10-15",
   "data_source": "real SPY daily (Yahoo)",
   "cost_bps_per_turnover": 1.0,
   "entries": [
@@ -11,12 +11,12 @@
       "hypothesis": "Hold the index. Do nothing. This is the bar.",
       "file": "buy_and_hold.py",
       "oos_start": "2022-01-03",
-      "oos_days": 1199,
-      "oos_return": 0.7117399843885752,
-      "sharpe": 0.7398289777612359,
-      "max_drawdown": -0.24503950356036142,
-      "benchmark_return": 0.7119112329043911,
-      "benchmark_sharpe": 0.7399510260036211,
+      "oos_days": 1200,
+      "oos_return": 0.7160778220252133,
+      "sharpe": 0.7427283643573694,
+      "max_drawdown": -0.24503948551300148,
+      "benchmark_return": 0.7162495045019555,
+      "benchmark_sharpe": 0.742850392687585,
       "status": "benchmark"
     },
     {
@@ -27,12 +27,12 @@
       "hypothesis": "Yesterday's move reverses: buy after a down day, sell after an up day.",
       "file": "mean_reversion.py",
       "oos_start": "2022-01-03",
-      "oos_days": 1199,
-      "oos_return": -0.03531105508503041,
-      "sharpe": 0.042293613116589975,
-      "max_drawdown": -0.28356368263008835,
-      "benchmark_return": 0.7119112329043911,
-      "benchmark_sharpe": 0.7399510260036211,
+      "oos_days": 1200,
+      "oos_return": -0.03285432598072535,
+      "sharpe": 0.04533408551451165,
+      "max_drawdown": -0.28356400323829634,
+      "benchmark_return": 0.7162495045019555,
+      "benchmark_sharpe": 0.742850392687585,
       "status": "trailed benchmark"
     },
     {
@@ -43,12 +43,12 @@
       "hypothesis": "When the 20-day average is above the 100-day average, the trend continues.",
       "file": "sma_crossover.py",
       "oos_start": "2022-01-03",
-      "oos_days": 1199,
-      "oos_return": 0.032118025422984475,
-      "sharpe": 0.12535194774887082,
-      "max_drawdown": -0.32892542331220287,
-      "benchmark_return": 0.7119112329043911,
-      "benchmark_sharpe": 0.7399510260036211,
+      "oos_days": 1200,
+      "oos_return": 0.034735671040820204,
+      "sharpe": 0.12836506369459708,
+      "max_drawdown": -0.32892501722555156,
+      "benchmark_return": 0.7162495045019555,
+      "benchmark_sharpe": 0.742850392687585,
       "status": "trailed benchmark"
     },
     {
@@ -59,12 +59,12 @@
       "hypothesis": "A positive trailing 60-day return predicts a positive next day.",
       "file": "ts_momentum.py",
       "oos_start": "2022-01-03",
-      "oos_days": 1199,
-      "oos_return": 0.19814833239117902,
-      "sharpe": 0.30657089532424187,
-      "max_drawdown": -0.27509428813265135,
-      "benchmark_return": 0.7119112329043911,
-      "benchmark_sharpe": 0.7399510260036211,
+      "oos_days": 1200,
+      "oos_return": 0.20118167013085397,
+      "sharpe": 0.3095443555152341,
+      "max_drawdown": -0.27509427579903256,
+      "benchmark_return": 0.7162495045019555,
+      "benchmark_sharpe": 0.742850392687585,
       "status": "trailed benchmark"
     }
   ]
