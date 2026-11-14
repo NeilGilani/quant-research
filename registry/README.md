@@ -24,10 +24,10 @@ _Last run **2026-11-13** · data source: **real SPY daily (Yahoo)** · cost: 1&n
 
 | # | Strategy | Author | Locked | OOS window | OOS return | Sharpe | Max DD | vs B&H | Status |
 |--:|---|---|:--:|:--:|--:|--:|--:|--:|:--|
-| 1 | Buy & Hold | Martingale | `2022-01-01` | 1221d from 2022-01-03 | +68.1% | 0.70 | -24.5% | — | _benchmark_ |
-| 2 | Time-Series Momentum (60d) | Martingale | `2022-01-01` | 1221d from 2022-01-03 | +17.9% | 0.28 | -27.5% | -0.42 | trailed benchmark |
+| 1 | Buy & Hold | Martingale | `2022-01-01` | 1221d from 2022-01-03 | +68.2% | 0.71 | -24.5% | — | _benchmark_ |
+| 2 | Time-Series Momentum (60d) | Martingale | `2022-01-01` | 1221d from 2022-01-03 | +17.8% | 0.28 | -27.5% | -0.42 | trailed benchmark |
 | 3 | SMA Crossover (20/100) | Martingale | `2022-01-01` | 1221d from 2022-01-03 | +1.4% | 0.10 | -32.9% | -0.60 | trailed benchmark |
-| 4 | Mean Reversion (1d reversal) | Martingale | `2022-01-01` | 1221d from 2022-01-03 | -1.6% | 0.07 | -28.4% | -0.64 | trailed benchmark |
+| 4 | Mean Reversion (1d reversal) | Martingale | `2022-01-01` | 1221d from 2022-01-03 | -1.5% | 0.07 | -28.4% | -0.64 | trailed benchmark |
 <!--SCOREBOARD:END-->
 
 *Sharpe is the annualised return-to-risk ratio (higher is better; ~0.6 is roughly
