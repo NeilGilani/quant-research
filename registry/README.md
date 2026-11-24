@@ -20,14 +20,14 @@ actually did on days that came later.
 ## Scoreboard
 
 <!--SCOREBOARD:START-->
-_Last run **2026-11-20** · data source: **real SPY daily (Yahoo)** · cost: 1&nbsp;bp per turnover · benchmark: buy &amp; hold SPY._
+_Last run **2026-11-24** · data source: **real SPY daily (Yahoo)** · cost: 1&nbsp;bp per turnover · benchmark: buy &amp; hold SPY._
 
 | # | Strategy | Author | Locked | OOS window | OOS return | Sharpe | Max DD | vs B&H | Status |
 |--:|---|---|:--:|:--:|--:|--:|--:|--:|:--|
-| 1 | Buy & Hold | Martingale | `2022-01-01` | 1226d from 2022-01-03 | +53.8% | 0.59 | -24.5% | — | _benchmark_ |
-| 2 | Time-Series Momentum (60d) | Martingale | `2022-01-01` | 1226d from 2022-01-03 | +28.5% | 0.38 | -27.5% | -0.21 | trailed benchmark |
-| 3 | SMA Crossover (20/100) | Martingale | `2022-01-01` | 1226d from 2022-01-03 | +10.7% | 0.21 | -32.9% | -0.39 | trailed benchmark |
-| 4 | Mean Reversion (1d reversal) | Martingale | `2022-01-01` | 1226d from 2022-01-03 | -9.9% | -0.04 | -28.4% | -0.63 | faded |
+| 1 | Buy & Hold | Martingale | `2022-01-01` | 1228d from 2022-01-03 | +60.3% | 0.64 | -24.5% | — | _benchmark_ |
+| 2 | Time-Series Momentum (60d) | Martingale | `2022-01-01` | 1228d from 2022-01-03 | +23.1% | 0.33 | -27.5% | -0.31 | trailed benchmark |
+| 3 | SMA Crossover (20/100) | Martingale | `2022-01-01` | 1228d from 2022-01-03 | +6.0% | 0.16 | -32.9% | -0.48 | trailed benchmark |
+| 4 | Mean Reversion (1d reversal) | Martingale | `2022-01-01` | 1228d from 2022-01-03 | -5.3% | 0.02 | -28.4% | -0.61 | trailed benchmark |
 <!--SCOREBOARD:END-->
 
 *Sharpe is the annualised return-to-risk ratio (higher is better; ~0.6 is roughly
